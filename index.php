@@ -6,10 +6,11 @@
     <title>Login</title>
 </head>
 <body>
-    <input type="text" placeholder="Email or phone number">
-    <input type="text" placeholder="Password">
-    <button type="submit">Login</button>
-
+        <input type="text" placeholder="Email or phone number">
+        <input type="text" placeholder="Password">
+        
+        <button type="submit">Login</button>
+        
     <a href="#">Forgot password?</a>
     <a href="./pages/register.php">Create a new account</a> 
     <!-- Link to register page -->
